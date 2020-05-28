@@ -2,7 +2,7 @@ package edu.miu.cs.cs425.githubactionsdemo.studentrecordsmgmtconsoleapp.model;
 
 import java.time.LocalDate;
 
-public class Student {
+public clas Student {
 	private String studentId;
 	private String name;
 	private LocalDate dateOfAdmission;
